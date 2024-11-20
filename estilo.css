@@ -75,11 +75,11 @@ table,th,td{
 }
 td{
     padding:10px;
-    text-align:center;
+    text-align: center;
     background-color:rgb(179, 179, 234);
 }
 th{
     padding:10px;
-    text-align:center;
+    text-align: center;
     background-color:rgb(179, 199, 234);
 }
